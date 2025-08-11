@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
