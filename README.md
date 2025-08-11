@@ -70,3 +70,11 @@
 
 // Example export so the file compiles
 export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScript!";
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/tanay28gupta/Leet_code/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
