@@ -1,25 +1,72 @@
-# Leet_code
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tanay28gupta/Leet_code/tree/master/0001-two-sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tanay28gupta/Leet_code/tree/master/0001-two-sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->
+/**
+ * =========================================================
+ * LeetCode Solutions in TypeScript
+ * Author: Tanay Gupta
+ * Repository: https://github.com/<your-username>/<repo-name>
+ * =========================================================
+ *
+ * 📌 Overview
+ * This repository contains my solutions to various LeetCode problems,
+ * implemented in TypeScript. The goal of this repo is to:
+ *   - Practice problem-solving skills.
+ *   - Improve TypeScript proficiency.
+ *   - Explore different algorithmic approaches.
+ *
+ * ✅ Key Features:
+ *   - Clean, well-structured TypeScript code.
+ *   - Multiple solution approaches for selected problems.
+ *   - In-code explanations and complexity analysis.
+ *   - Categorized by problem type (Arrays, Strings, Graphs, DP, etc.).
+ *
+ * 🗂 Folder Structure:
+ *   ├── arrays/
+ *   │   ├── two-sum.ts
+ *   │   ├── max-subarray.ts
+ *   ├── strings/
+ *   │   ├── valid-palindrome.ts
+ *   │   ├── anagram-check.ts
+ *   ├── dynamic-programming/
+ *   │   ├── climb-stairs.ts
+ *   │   ├── longest-increasing-subsequence.ts
+ *   ├── graphs/
+ *   │   ├── bfs.ts
+ *   │   ├── dfs.ts
+ *   ├── utils/
+ *   │   ├── helper-functions.ts
+ *   ├── README.ts (this file)
+ *
+ * 🛠 How to Run:
+ *   1. Clone the repository:
+ *      git clone https://github.com/<your-username>/<repo-name>.git
+ *
+ *   2. Install dependencies:
+ *      npm install
+ *
+ *   3. Run a solution file (example: Two Sum):
+ *      ts-node arrays/two-sum.ts
+ *
+ * 📈 Complexity:
+ * Each file includes:
+ *   - Time Complexity
+ *   - Space Complexity
+ *
+ * 🤝 Contributing:
+ *   Contributions are welcome! Follow these steps:
+ *     1. Fork the repo.
+ *     2. Create a new branch for your feature:
+ *        git checkout -b feature/new-solution
+ *     3. Add your solution in the appropriate category folder.
+ *     4. Create a pull request.
+ *
+ * 🧠 Tip:
+ * Write solutions in a way that’s beginner-friendly.
+ * Add comments to explain tricky parts.
+ *
+ * 📜 License:
+ * This repository is licensed under the MIT License.
+ *
+ * =========================================================
+ */
+
+// Example export so the file compiles
+export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScript!";
