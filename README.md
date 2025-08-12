@@ -89,4 +89,12 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
