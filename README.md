@@ -90,6 +90,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -100,8 +101,13 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
