@@ -90,11 +90,13 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanay28gupta/Leet_code/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
@@ -111,4 +113,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
