@@ -104,6 +104,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanay28gupta/Leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 ## String Matching
 |  |
 | ------- |
