@@ -88,6 +88,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
