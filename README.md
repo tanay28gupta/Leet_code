@@ -89,6 +89,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +104,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/tanay28gupta/Leet_code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
