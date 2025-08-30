@@ -82,6 +82,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tanay28gupta/Leet_code/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tanay28gupta/Leet_code/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0058-length-of-last-word](https://github.com/tanay28gupta/Leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/tanay28gupta/Leet_code/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
