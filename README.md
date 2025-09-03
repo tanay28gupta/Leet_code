@@ -119,6 +119,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
