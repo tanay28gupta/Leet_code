@@ -121,6 +121,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
@@ -184,4 +185,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
