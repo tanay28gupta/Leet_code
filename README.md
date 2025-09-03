@@ -115,6 +115,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -138,6 +139,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanay28gupta/Leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
