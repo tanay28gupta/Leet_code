@@ -109,6 +109,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +139,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
