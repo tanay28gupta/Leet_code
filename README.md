@@ -126,6 +126,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/tanay28gupta/Leet_code/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
