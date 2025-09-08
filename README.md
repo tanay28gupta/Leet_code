@@ -122,6 +122,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0035-search-insert-position](https://github.com/tanay28gupta/Leet_code/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/tanay28gupta/Leet_code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
@@ -198,6 +199,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -206,6 +208,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 ## Counting
 |  |
