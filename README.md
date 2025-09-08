@@ -89,6 +89,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/tanay28gupta/Leet_code/tree/master/0228-summary-ranges) |
@@ -169,6 +171,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
@@ -197,4 +200,12 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
