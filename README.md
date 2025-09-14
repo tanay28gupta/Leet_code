@@ -98,6 +98,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -115,6 +116,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -174,6 +176,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +186,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 ## Depth-First Search
 |  |
 | ------- |
