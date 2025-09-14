@@ -117,6 +117,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +154,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
