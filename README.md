@@ -90,6 +90,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanay28gupta/Leet_code/tree/master/0217-contains-duplicate) |
@@ -152,6 +153,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
@@ -239,6 +241,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanay28gupta/Leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
