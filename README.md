@@ -104,6 +104,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanay28gupta/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
@@ -148,6 +149,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanay28gupta/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -210,6 +212,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanay28gupta/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
