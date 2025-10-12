@@ -85,6 +85,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0168-excel-sheet-column-title](https://github.com/tanay28gupta/Leet_code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0387-first-unique-character-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -250,4 +252,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
