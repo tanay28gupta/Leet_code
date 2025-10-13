@@ -123,6 +123,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
 ## Array
 |  |
 | ------- |
