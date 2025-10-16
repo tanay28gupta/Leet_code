@@ -257,4 +257,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tanay28gupta/Leet_code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
