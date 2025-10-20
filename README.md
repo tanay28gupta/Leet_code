@@ -89,6 +89,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanay28gupta/Leet_code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/tanay28gupta/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanay28gupta/Leet_code/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -127,6 +128,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanay28gupta/Leet_code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanay28gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanay28gupta/Leet_code/tree/master/0027-remove-element) |
