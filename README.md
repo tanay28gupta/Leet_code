@@ -100,6 +100,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -148,6 +149,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0228-summary-ranges](https://github.com/tanay28gupta/Leet_code/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/tanay28gupta/Leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanay28gupta/Leet_code/tree/master/0485-max-consecutive-ones) |
@@ -164,6 +166,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -173,6 +176,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0069-sqrtx](https://github.com/tanay28gupta/Leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 ## String Matching
 |  |
@@ -198,6 +202,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0242-valid-anagram](https://github.com/tanay28gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
 ## Depth-First Search
 |  |
