@@ -151,6 +151,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/tanay28gupta/Leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanay28gupta/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
@@ -168,6 +169,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/tanay28gupta/Leet_code/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,4 +277,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [1153-product-sales-analysis-i](https://github.com/tanay28gupta/Leet_code/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tanay28gupta/Leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tanay28gupta/Leet_code/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
