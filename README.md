@@ -151,6 +151,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0219-contains-duplicate-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/tanay28gupta/Leet_code/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/tanay28gupta/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay28gupta/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -168,6 +169,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/tanay28gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanay28gupta/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/tanay28gupta/Leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanay28gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
