@@ -144,6 +144,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0066-plus-one](https://github.com/tanay28gupta/Leet_code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tanay28gupta/Leet_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay28gupta/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanay28gupta/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
@@ -237,6 +238,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0005-longest-palindromic-substring](https://github.com/tanay28gupta/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay28gupta/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/tanay28gupta/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 ## Stack
