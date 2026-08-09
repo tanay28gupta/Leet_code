@@ -289,4 +289,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanay28gupta/Leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
