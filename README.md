@@ -161,6 +161,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/tanay28gupta/Leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanay28gupta/Leet_code/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tanay28gupta/Leet_code/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanay28gupta/Leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -192,6 +193,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay28gupta/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanay28gupta/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tanay28gupta/Leet_code/tree/master/0875-koko-eating-bananas) |
 ## String Matching
