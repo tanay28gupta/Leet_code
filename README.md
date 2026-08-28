@@ -161,6 +161,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0463-island-perimeter](https://github.com/tanay28gupta/Leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanay28gupta/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/tanay28gupta/Leet_code/tree/master/0792-binary-search) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay28gupta/Leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanay28gupta/Leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay28gupta/Leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | ------- |
 | [0043-multiply-strings](https://github.com/tanay28gupta/Leet_code/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay28gupta/Leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
 | ------- |
