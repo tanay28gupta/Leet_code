@@ -12,6 +12,7 @@ class Solution {
         while(low<=high)
         {
             int mid=low+ (high-low)/2;
+            // in this code as well as other codes we are using the mid to calculate like high - low by 2 then adding low because of the value overflow for the int condition refer to the ijnt value 
             if(possible(weights,days,mid))
             {
                 high=mid-1;
