@@ -87,6 +87,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0171-excel-sheet-column-number](https://github.com/tanay28gupta/Leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/tanay28gupta/Leet_code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/tanay28gupta/Leet_code/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/tanay28gupta/Leet_code/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -313,6 +315,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanay28gupta/Leet_code/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/tanay28gupta/Leet_code/tree/master/1903-largest-odd-number-in-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
