@@ -131,6 +131,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/tanay28gupta/Leet_code/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -267,6 +268,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,4 +332,8 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanay28gupta/Leet_code/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
