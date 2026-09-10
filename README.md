@@ -131,6 +131,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 | [0392-is-subsequence](https://github.com/tanay28gupta/Leet_code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tanay28gupta/Leet_code/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
+| [0796-rotate-string](https://github.com/tanay28gupta/Leet_code/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tanay28gupta/Leet_code/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/tanay28gupta/Leet_code/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -215,6 +216,7 @@ export const repoIntro = "Welcome to my LeetCode Solutions Repository in TypeScr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanay28gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/tanay28gupta/Leet_code/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
